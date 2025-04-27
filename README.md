@@ -22,8 +22,8 @@
 ## 🚀 ฟีเจอร์หลัก
 
  ✅ ระบบสมัครสมาชิก / ล็อกอิน / ลืมรหัสผ่าน (ผ่านอีเมล)  
- ✅ ระบบบังคับ login ก่อนจอง
- ✅ รายการจองทั้งหมด
+ ✅ ระบบบังคับ login ก่อนจอง<br>
+ ✅ รายการจองทั้งหมด<br>
  ✅ ระบบคำนวณ ราคาและเวลาที่จอง
 
 ---
@@ -112,7 +112,7 @@ python manage.py runserver
     <td><a href="mailto:Teeraphat15.km@gmail.com">Teeraphat15.km@gmail.com</a></td>
   </tr>
   <tr>
-    <td align="center"><strong><img src='github.svg'> GitHub</strong></td>
+    <td align="center"><strong>🔗GitHub</strong></td>
     <td><a href="https://github.com/minkpn">minkpn</a></td>
     <td><a href="https://github.com/wuttipatphuakmanee">Wuttipat</a></td>
     <td><a href="https://github.com/Teerapatkm">Patlom</a></td>
@@ -129,4 +129,4 @@ python manage.py runserver
 
 ---
 
-<h1 align="center">✨ Made with ❤️ by minkpn x uttipat x Patlom</h1>
+<h1 align="center">✨ Made with ❤️ by minkpn x Wuttipat x Patlom</h1>
