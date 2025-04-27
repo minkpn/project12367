@@ -30,7 +30,7 @@
 
 ## 🖼 ตัวอย่างหน้าจอระบบ
 
-### 🎮 หน้าแรกเว็บไซต์ก่อนล็อกอิน
+### 🗟 หน้าแรกเว็บไซต์ก่อนล็อกอิน
 
 <img src="Screenshorts_Project/unlog_index.png" width="100%" />
 
@@ -42,15 +42,15 @@
 
 <img src="Screenshorts_Project/register.png" width="100%" />
 
-### 🎮 หน้าเลือกจองห้อง
+### 🎶 หน้าเลือกจองห้อง
 
 <img src="Screenshorts_Project/log_index.png" width="100%" />
 
-### 💳 ฟอร์มจองห้องคาราโอเกะ
+### 📝 ฟอร์มจองห้องคาราโอเกะ
 
 <img src="Screenshorts_Project/booking_form.png" width="100%" />
 
-### 💰 หน้าเมื่อจองห้องเสร็จ
+### 💯 หน้าเมื่อจองห้องเสร็จ
 
 <img src="Screenshorts_Project/booking_success.png" width="100%" />
 
@@ -58,7 +58,7 @@
 
 <img src="Screenshorts_Project/booking_all.png" width="100%" />
 
-### 🛠 ติดต่อ/แจ้งปัญหา
+### 📞 ติดต่อ/แจ้งปัญหา
 
 <img src="Screenshorts_Project/contact.png" width="100%" />
 
@@ -112,7 +112,7 @@ python manage.py runserver
     <td><a href="mailto:Teeraphat15.km@gmail.com">Teeraphat15.km@gmail.com</a></td>
   </tr>
   <tr>
-    <td align="center"><strong>🪪 GitHub</strong></td>
+    <td align="center"><strong><img src='github.svg'> GitHub</strong></td>
     <td><a href="https://github.com/minkpn">minkpn</a></td>
     <td><a href="https://github.com/wuttipatphuakmanee">Wuttipat</a></td>
     <td><a href="https://github.com/Teerapatkm">Patlom</a></td>
